@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\FrenchWord1\bin\Debug\net8.0-windows\FrenchWord1.exe
+C:\Users\user\source\repos\FrenchWord1\bin\Debug\net8.0-windows\FrenchWord1.deps.json
+C:\Users\user\source\repos\FrenchWord1\bin\Debug\net8.0-windows\FrenchWord1.runtimeconfig.json
+C:\Users\user\source\repos\FrenchWord1\bin\Debug\net8.0-windows\FrenchWord1.dll
+C:\Users\user\source\repos\FrenchWord1\bin\Debug\net8.0-windows\FrenchWord1.pdb
+C:\Users\user\source\repos\FrenchWord1\obj\Debug\net8.0-windows\FrenchWord1.Form1.resources
+C:\Users\user\source\repos\FrenchWord1\obj\Debug\net8.0-windows\FrenchWord1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\FrenchWord1\obj\Debug\net8.0-windows\FrenchWord1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FrenchWord1\obj\Debug\net8.0-windows\FrenchWord1.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FrenchWord1\obj\Debug\net8.0-windows\FrenchWord1.AssemblyInfo.cs
+C:\Users\user\source\repos\FrenchWord1\obj\Debug\net8.0-windows\FrenchWord1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FrenchWord1\obj\Debug\net8.0-windows\FrenchWord1.dll
+C:\Users\user\source\repos\FrenchWord1\obj\Debug\net8.0-windows\refint\FrenchWord1.dll
+C:\Users\user\source\repos\FrenchWord1\obj\Debug\net8.0-windows\FrenchWord1.pdb
+C:\Users\user\source\repos\FrenchWord1\obj\Debug\net8.0-windows\FrenchWord1.genruntimeconfig.cache
+C:\Users\user\source\repos\FrenchWord1\obj\Debug\net8.0-windows\ref\FrenchWord1.dll
